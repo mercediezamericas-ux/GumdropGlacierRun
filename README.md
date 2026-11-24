@@ -2,6 +2,8 @@
 this is my final project game !! 
 Get excited because the best, fun-est, and coolest game is online (created by me) ! 
 
+![This is my super awesome game](PYGAME.png)
+
 ##How to Play 
 This game is a multi-level game so you have to make it through all the levels to win. 
 The first level is simple, avoid the lollypops to get to the portal.
